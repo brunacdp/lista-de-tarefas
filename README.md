@@ -7,7 +7,7 @@ Lista de tarefas com JavaScript
 
 :heavy_check_mark: Projeto de estudos com foco em manipulação do DOM
 
-  :link: [Acesse o projeto por aqui](inserir link).
+  :link: [Acesse o projeto por aqui](https://lista-de-tarefas-brunacdp.vercel.app/).
   <br>
   <br>
 
